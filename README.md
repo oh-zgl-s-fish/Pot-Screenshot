@@ -45,3 +45,12 @@
 - 下载 `Bat to Exe Converter` 作者是 Faith Kodak 或者其他可以转换bat到exe的工具和 [AutoHotKey v1.1](https://www.autohotkey.com/)
 - 转换bat到exe并且选择有 `Windows (Invisible)` 的选项
 - 转换ahk到exe
+
+
+# Acknowledgements
+
+- text icons created by Freepik on [Flaticon](https://www.flaticon.com/free-icons/text)
+- Bat to Exe Converter made by [Faith Kodak](https://github.com/99fk)
+- Pot-app
+- Snipaste
+- AutoHotkey
