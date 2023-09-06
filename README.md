@@ -18,7 +18,7 @@
 
 ### How to build
 
-- Download `Bat to Exe Converter` made by Faith Kodak or other tools can convert bat to exe and the (AutoHotKey v1.1)[https://www.autohotkey.com/]
+- Download `Bat to Exe Converter` made by Faith Kodak or other tools can convert bat to exe and the [AutoHotKey v1.1](https://www.autohotkey.com/)
 - Convert the bat file to an exe file with the option `Windows (Invisible)`
 - Convert the ahk file to an exe file
 
@@ -42,6 +42,6 @@
 
 ### 如何构建
 
-- 下载 `Bat to Exe Converter` 作者是 Faith Kodak 或者其他可以转换bat到exe的工具和 (AutoHotKey v1.1)[https://www.autohotkey.com/]
+- 下载 `Bat to Exe Converter` 作者是 Faith Kodak 或者其他可以转换bat到exe的工具和 [AutoHotKey v1.1](https://www.autohotkey.com/)
 - 转换bat到exe并且选择有 `Windows (Invisible)` 的选项
 - 转换ahk到exe
