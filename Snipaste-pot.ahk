@@ -37,7 +37,10 @@ SingleClickEvent:
 IniRead, Snip, config.ini, Screenshot, Snipaste
 IniRead, Port, config.ini, Pot, Port
 IniRead, Delay, config.ini, Settings, Delay
-FileDelete, C:\Users\ZGL\AppData\Local\com.pot-app.desktop\pot_screenshot_cut.png
+if FileExist("C:\Users\ZGL\AppData\Local\com.pot-app.desktop\pot_screenshot_cut.png")
+{
+       FileDelete, C:\Users\ZGL\AppData\Local\com.pot-app.desktop\pot_screenshot_cut.png
+}
 Run, %Snip% snip -o C:\Users\ZGL\AppData\Local\com.pot-app.desktop\pot_screenshot_cut.png
 Delay:=Delay*10
 Loop, %Delay%
